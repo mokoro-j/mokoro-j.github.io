@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Joash Mokoro"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I’m a data scientist who loves digging into numbers to find stories and insights that actually matter. I work with machine learning, stats, and visualization tools to make sense of messy data and help teams make smarter decisions. Curious by nature, I’m always looking for patterns, trends, and creative ways to turn data into something useful."
+  bio    : "I’m a data scientist driven by curiosity and a passion for uncovering meaningful insights hidden in numbers. Using machine learning, statistical methods, and visualization tools, I transform complex, messy data into clear stories that empower smarter decisions. Always exploring patterns and trends, I thrive on finding creative ways to turn raw data into practical, impactful solutions."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
