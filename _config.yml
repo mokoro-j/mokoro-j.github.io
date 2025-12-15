@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: SAHAMIYE (The Data Scout)
+masthead_title: "SAHAMIYE (Data Scout)" # overide site title for masthead title
 logo: "/assets/images/logo.png" # Site masthead logo : insert a logo before the site title
 email:
 description: >- # this means to ignore newlines until "baseurl:"
