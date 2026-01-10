@@ -3,6 +3,4 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
-
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I am a data and information systems specialist with 15+ years of experience in ICT, monitoring & evaluation, and data management across humanitarian and development programs. I have led the design of large-scale M&E systems, integrated health and protection databases, and developed geospatial analytics platforms to support resilience and evidence-based decision-making. My work spans organizations such as Mercy Corps, World Vision, UNHCR, and the World Bank, where I’ve built innovative tools like STANDARDIZE and contributed to global rollouts of adaptive program management systems. I am passionate about leveraging technology to strengthen accountability, improve program outcomes, and drive social impact.
